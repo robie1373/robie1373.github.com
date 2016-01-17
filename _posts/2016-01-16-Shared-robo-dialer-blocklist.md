@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shared robo-dialer blocklist
-tagline: "Death to dialects!"
+tagline: "Death to dialers!"
 category: null
 tags: []
 published: false
